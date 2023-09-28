@@ -29,6 +29,9 @@ Python Version - 3.9 Packages: pandas, numpy, matplotlib, statsmodel
 - the same approach using SARIMAX gives us a closer match to the original data
 - Predicted for the next 24 months
 
+
+![download (1)](https://github.com/vighnesh-balaji/Time_Series_ARIMA/assets/39007695/4b11fec2-9323-4dee-93cb-2f3f573f8bbb)
+
 ![download](https://github.com/vighnesh-balaji/Time_Series_ARIMA/assets/39007695/1e40da8b-1f6b-4d1a-b268-94f546630cce)
 
   
